@@ -1,7 +1,9 @@
 {
   "source_url": "https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications",
-  "last_check": "2026-10-15T19:00:00Z",
+  "last_check": "2026-10-16T11:45:00Z",
   "seen_guids": [
+    "https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/documents-explicatifs-classification-employeurs",
+    "https://www.cnesst.gouv.qc.ca/en/forms-and-publications/compiling-documents-confirm-breakdown-annual",
     "https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/documents-constituer-repartition-salaires-annuels",
     "https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/table-taux",
     "https://www.cnesst.gouv.qc.ca/en/forms-and-publications/schedule-rates",
