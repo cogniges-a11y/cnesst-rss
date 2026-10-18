@@ -1,7 +1,9 @@
 {
   "source_url": "https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications",
-  "last_check": "2026-10-17T19:00:00Z",
+  "last_check": "2026-10-18T19:00:00Z",
   "seen_guids": [
+    "https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/registre-accidents-incidents-premier-secours",
+    "https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/guide-administratif-etablissements-sante-public",
     "https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/note-299-precisions-concernant-conditions",
     "https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/documents-explicatifs-classification-employeurs",
     "https://www.cnesst.gouv.qc.ca/en/forms-and-publications/compiling-documents-confirm-breakdown-annual",
