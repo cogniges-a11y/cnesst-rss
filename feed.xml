@@ -1,1 +1,143 @@
-PLACEHOLDER
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Formulaires et Publications – CNESST</title>
+    <link>https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications</link>
+    <description>Liste des formulaires et publications de la Commission des normes, de l'équité, de la santé et de la sécurité du travail (CNESST)</description>
+    <language>fr</language>
+    <lastBuildDate>Thu, 22 Oct 2026 11:45:00 +0000</lastBuildDate>
+    <item>
+      <title>Calcul du taux personnalisé 2027 – Guide de l’employeur</title>
+      <link>https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/calcul-taux-personnalise</link>
+      <guid isPermaLink="true">https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/calcul-taux-personnalise</guid>
+      <description>Ce guide vise à faciliter la compréhension de la méthode de calcul du taux personnalisé et à répondre aux interrogations que l'employeur pourrait avoir à ce sujet. La présentation comprend deux parties principales : la détermination du coût d’indemnisation et le calcul du taux personnalisé.</description>
+      <pubDate>Tue, 21 Oct 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Calculation of Personalized Rate 2027 – Employer’s Guide</title>
+      <link>https://www.cnesst.gouv.qc.ca/en/forms-and-publications/calculation-personalized-rate</link>
+      <guid isPermaLink="true">https://www.cnesst.gouv.qc.ca/en/forms-and-publications/calculation-personalized-rate</guid>
+      <description>This guide is intended to facilitate the understanding of the personalized rate calculation method and to respond to questions that the employer could have on that subject. The presentation is made up of two main parts: determining the compensation cost and the personalized rate calculation.</description>
+      <pubDate>Tue, 21 Oct 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Schéma du processus de traitement des plaintes en normes du travail</title>
+      <link>https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/schema-processus-traitement-plaintes</link>
+      <guid isPermaLink="true">https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/schema-processus-traitement-plaintes</guid>
+      <description>Ce document résumé présente les principaux types de plaintes en normes du travail, les attentes envers les parties concernées et les étapes clés du traitement d’une plainte. Le schéma offre une vue d’ensemble claire du processus pour aider à comprendre son fonctionnement.</description>
+      <pubDate>Wed, 15 Oct 2026 14:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Changements à signaler – Employeurs</title>
+      <link>https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/changements-signaler-employeurs</link>
+      <guid isPermaLink="true">https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/changements-signaler-employeurs</guid>
+      <description>Ce service en ligne (ou formulaire) permet aux employeurs de signaler des changements survenus dans leur entreprise ou dans l’un de leurs établissements (changement d’adresse, d’activités, fusion, achat/vente, départ définitif du dernier travailleur, etc.) afin de tenir à jour leur dossier d’assurance auprès de la CNESST. Ces changements peuvent aussi être signalés dans la section correspondante de la Déclaration des salaires.</description>
+      <pubDate>Tue, 20 Oct 2026 15:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Organigramme de la CNESST</title>
+      <link>https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/organigramme-cnesst</link>
+      <guid isPermaLink="true">https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/organigramme-cnesst</guid>
+      <description>L’organigramme vous informe sur les personnes et les directions qui prennent des décisions en matière de gestion à la CNESST.</description>
+      <pubDate>Mon, 31 Aug 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Registre d’accidents, d’incidents et de premiers secours – Modèle dynamique</title>
+      <link>https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/registre-accidents-incidents-premier-secours</link>
+      <guid isPermaLink="true">https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/registre-accidents-incidents-premier-secours</guid>
+      <description>Modèle dynamique (remplissable à l’écran) du registre d’accidents, d’incidents et de premiers secours pour consigner les événements en milieu de travail.</description>
+      <pubDate>Fri, 16 Oct 2026 15:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Guide administratif relatif au compte de l'établissement de santé public</title>
+      <link>https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/guide-administratif-etablissements-sante-public</link>
+      <guid isPermaLink="true">https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/guide-administratif-etablissements-sante-public</guid>
+      <description>Guide destiné aux établissements de santé publics pour la facturation des soins, traitements et services fournis aux travailleuses et travailleurs ayant subi une lésion professionnelle.</description>
+      <pubDate>Thu, 15 Oct 2026 15:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Note 299 - Les conditions d'assujettissement d'un employeur en vertu de la LATMP</title>
+      <link>https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/note-299-precisions-concernant-conditions</link>
+      <guid isPermaLink="true">https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/note-299-precisions-concernant-conditions</guid>
+      <description>Cette note présente les conditions nécessaires pour qu’une personne ait le statut d’employeur au sens de la Loi sur les accidents du travail et les maladies professionnelles (LATMP) ainsi que les modalités d’application qui s’y rattachent.</description>
+      <pubDate>Wed, 15 Oct 2026 19:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Documents explicatifs sur la classification des employeurs 2027</title>
+      <link>https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/documents-explicatifs-classification-employeurs</link>
+      <guid isPermaLink="true">https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/documents-explicatifs-classification-employeurs</guid>
+      <description>Les Documents explicatifs sur la classification des employeurs apportent des précisions sur les unités de classification décrites à l’annexe 1 du Règlement sur le financement. Cette documentation complémentaire facilite la compréhension des textes relatifs aux unités et aux règles de classification.</description>
+      <pubDate>Mon, 13 Oct 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compiling documents to confirm the breakdown of annual insurable wages for 2027</title>
+      <link>https://www.cnesst.gouv.qc.ca/en/forms-and-publications/compiling-documents-confirm-breakdown-annual</link>
+      <guid isPermaLink="true">https://www.cnesst.gouv.qc.ca/en/forms-and-publications/compiling-documents-confirm-breakdown-annual</guid>
+      <description>Employers classified in more than one classification unit must annually prepare one or more documents, depending on the circumstances, before submitting their Statement of wages. This document contains examples of the various documents that could be prepared according to the type of employer.</description>
+      <pubDate>Mon, 13 Oct 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Documents à constituer pour appuyer la répartition des salaires annuels assurables de 2027</title>
+      <link>https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/documents-constituer-repartition-salaires-annuels</link>
+      <guid isPermaLink="true">https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/documents-constituer-repartition-salaires-annuels</guid>
+      <description>Les employeurs classés dans plus d’une unité de classification doivent constituer annuellement un ou des documents, selon le cas, avant de transmettre leur déclaration des salaires. Cette publication contient des exemples des différents documents pouvant être préparés selon le type d’employeur.</description>
+      <pubDate>Thu, 15 Oct 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Table des taux 2027</title>
+      <link>https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/table-taux</link>
+      <guid isPermaLink="true">https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/table-taux</guid>
+      <description>Cette publication contient des explications sur la classification des employeurs et la tarification en matière de santé et de sécurité du travail. Elle comprend aussi une liste numérique des unités de classification et les titres de chaque unité.</description>
+      <pubDate>Mon, 13 Oct 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Schedule of Rates</title>
+      <link>https://www.cnesst.gouv.qc.ca/en/forms-and-publications/schedule-rates</link>
+      <guid isPermaLink="true">https://www.cnesst.gouv.qc.ca/en/forms-and-publications/schedule-rates</guid>
+      <description>This publication contains explanations about the classification of employers and occupational health and safety rates. It also includes a numerical list of the classification units and the titles of each unit.</description>
+      <pubDate>Mon, 13 Oct 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Systèmes d'ancrage pour la protection contre les chutes</title>
+      <link>https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/systemes-dancrage-pour-protection-contre-chutes</link>
+      <guid isPermaLink="true">https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/systemes-dancrage-pour-protection-contre-chutes</guid>
+      <description>Le présent guide se veut un outil d’information pour les employeurs qui auront à faire concevoir, à installer ou à utiliser des systèmes d’ancrage pour la protection individuelle contre les chutes, après une analyse qui tient compte de la hiérarchie des mesures de prévention.</description>
+      <pubDate>Mon, 13 Oct 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Portrait des jeunes travailleuses et travailleurs de 24 ans ou moins - Année 2025</title>
+      <link>https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/portrait-jeunes-travailleurs-24-moins</link>
+      <guid isPermaLink="true">https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/portrait-jeunes-travailleurs-24-moins</guid>
+      <description>Ce rapport présente les statistiques de 2025 concernant la situation des jeunes travailleuses et travailleurs sur le plan de la santé et de la sécurité du travail et des normes du travail.</description>
+      <pubDate>Mon, 13 Oct 2026 15:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Liste des chantiers nécessitant un représentant en santé et en sécurité à temps plein</title>
+      <link>https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/liste-chantiers-representant-ss-temps-plein</link>
+      <guid isPermaLink="true">https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/liste-chantiers-representant-ss-temps-plein</guid>
+      <description>Cette liste présente les chantiers de construction pour lesquels la CNESST a reçu un avis d’ouverture depuis le 1er janvier 2025 et dont le coût des travaux excédera 12 millions $ ou dont les activités occuperont simultanément au moins 100 travailleurs de la construction à un moment des travaux, selon les estimations du maître d’œuvre. La liste sera bonifiée mensuellement selon les avis d’ouverture reçus.</description>
+      <pubDate>Thu, 09 Oct 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Application for review of the decision – Labour standards complaints</title>
+      <link>https://www.cnesst.gouv.qc.ca/en/forms-and-publications/application-review-decision-labour-standards</link>
+      <guid isPermaLink="true">https://www.cnesst.gouv.qc.ca/en/forms-and-publications/application-review-decision-labour-standards</guid>
+      <description>You can complete this application if you disagree with a decision rendered by the CNESST concerning your labour standards complaint: wage complaint, complaint concerning a prohibited practice, complaint concerning dismissal without just and sufficient cause, complaint concerning psychological or sexual harassment, complaint concerning differential treatment, complaint concerning the maintenance of employee status. This application must be sent to the CNESST using the online electronic transmission of documents service.</description>
+      <pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bilan 2025 – Plan d’action à l’égard des personnes handicapées 2024-2026</title>
+      <link>https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/bilan-personnes-handicapees</link>
+      <guid isPermaLink="true">https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/bilan-personnes-handicapees</guid>
+      <description>Le présent document trace le bilan de l’année 2025 du Plan d’action à l’égard des personnes handicapées 2024-2026.</description>
+      <pubDate>Wed, 09 Sep 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Plan d’action à l’égard des personnes handicapées 2024-2026 – Mise à jour 2026</title>
+      <link>https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/plan-daction-legard-personnes-handicapees</link>
+      <guid isPermaLink="true">https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/plan-daction-legard-personnes-handicapees</guid>
+      <description>Ce plan d’action identifie les obstacles que peuvent rencontrer les personnes en situation de handicap et présente les mesures envisagées pour les prochaines années afin de réduire ou de lever ces obstacles.</description>
+      <pubDate>Wed, 09 Sep 2026 12:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
