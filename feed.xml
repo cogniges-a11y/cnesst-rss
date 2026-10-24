@@ -5,7 +5,21 @@
     <link>https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications</link>
     <description>Liste des formulaires et publications de la Commission des normes, de l'équité, de la santé et de la sécurité du travail (CNESST)</description>
     <language>fr</language>
-    <lastBuildDate>Fri, 23 Oct 2026 19:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 11:46:00 +0000</lastBuildDate>
+    <item>
+      <title>Guide d’aide à l’inscription – Formation – Membres d’un comité de santé et de sécurité – Secteurs de l’éducation et de la santé et des services sociaux</title>
+      <link>https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/guide-inscription-formation-membres-css-education</link>
+      <guid isPermaLink="true">https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/guide-inscription-formation-membres-css-education</guid>
+      <description>Ce guide informe les participants du processus d’inscription à la formation, des outils nécessaires pour la suivre, de la remise de l’attestation de formation et du remboursement possible des frais.</description>
+      <pubDate>Fri, 20 Mar 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Guide d’aide à l’inscription – Formation – Représentant en santé et en sécurité – Secteurs de l’éducation et de la santé et des services sociaux</title>
+      <link>https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/guide-inscription-formation-rss-education</link>
+      <guid isPermaLink="true">https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/guide-inscription-formation-rss-education</guid>
+      <description>Ce guide informe les participants du processus d’inscription à la formation, des outils nécessaires pour la suivre, de la remise de l’attestation de formation et du remboursement possible des frais.</description>
+      <pubDate>Fri, 20 Mar 2026 08:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Synthèse des mécanismes de prévention et de participation en établissement</title>
       <link>https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/synthese-mecanismes-prevention-participation</link>
@@ -131,34 +145,6 @@
       <guid isPermaLink="true">https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/portrait-jeunes-travailleurs-24-moins</guid>
       <description>Ce rapport présente les statistiques de 2025 concernant la situation des jeunes travailleuses et travailleurs sur le plan de la santé et de la sécurité du travail et des normes du travail.</description>
       <pubDate>Mon, 13 Oct 2026 15:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Liste des chantiers nécessitant un représentant en santé et en sécurité à temps plein</title>
-      <link>https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/liste-chantiers-representant-ss-temps-plein</link>
-      <guid isPermaLink="true">https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/liste-chantiers-representant-ss-temps-plein</guid>
-      <description>Cette liste présente les chantiers de construction pour lesquels la CNESST a reçu un avis d’ouverture depuis le 1er janvier 2025 et dont le coût des travaux excédera 12 millions $ ou dont les activités occuperont simultanément au moins 100 travailleurs de la construction à un moment des travaux, selon les estimations du maître d’œuvre. La liste sera bonifiée mensuellement selon les avis d’ouverture reçus.</description>
-      <pubDate>Thu, 09 Oct 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Application for review of the decision – Labour standards complaints</title>
-      <link>https://www.cnesst.gouv.qc.ca/en/forms-and-publications/application-review-decision-labour-standards</link>
-      <guid isPermaLink="true">https://www.cnesst.gouv.qc.ca/en/forms-and-publications/application-review-decision-labour-standards</guid>
-      <description>You can complete this application if you disagree with a decision rendered by the CNESST concerning your labour standards complaint: wage complaint, complaint concerning a prohibited practice, complaint concerning dismissal without just and sufficient cause, complaint concerning psychological or sexual harassment, complaint concerning differential treatment, complaint concerning the maintenance of employee status. This application must be sent to the CNESST using the online electronic transmission of documents service.</description>
-      <pubDate>Mon, 14 Sep 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bilan 2025 – Plan d’action à l’égard des personnes handicapées 2024-2026</title>
-      <link>https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/bilan-personnes-handicapees</link>
-      <guid isPermaLink="true">https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/bilan-personnes-handicapees</guid>
-      <description>Le présent document trace le bilan de l’année 2025 du Plan d’action à l’égard des personnes handicapées 2024-2026.</description>
-      <pubDate>Wed, 09 Sep 2026 12:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Plan d’action à l’égard des personnes handicapées 2024-2026 – Mise à jour 2026</title>
-      <link>https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/plan-daction-legard-personnes-handicapees</link>
-      <guid isPermaLink="true">https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/plan-daction-legard-personnes-handicapees</guid>
-      <description>Ce plan d’action identifie les obstacles que peuvent rencontrer les personnes en situation de handicap et présente les mesures envisagées pour les prochaines années afin de réduire ou de lever ces obstacles.</description>
-      <pubDate>Wed, 09 Sep 2026 12:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
