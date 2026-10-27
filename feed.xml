@@ -5,7 +5,21 @@
     <link>https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications</link>
     <description>Liste des formulaires et publications de la Commission des normes, de l'équité, de la santé et de la sécurité du travail (CNESST)</description>
     <language>fr</language>
-    <lastBuildDate>Sat, 24 Oct 2026 19:02:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Oct 2026 11:45:00 +0000</lastBuildDate>
+    <item>
+      <title>Unit Rates Based on Risk and Experience Ratios for Classification Units – Personalized Ratemaking 2027</title>
+      <link>https://www.cnesst.gouv.qc.ca/en/forms-and-publications/unit-rates-risk-experience-ratios-classification</link>
+      <guid isPermaLink="true">https://www.cnesst.gouv.qc.ca/en/forms-and-publications/unit-rates-risk-experience-ratios-classification</guid>
+      <description>This document presents the unit rates based on risk and the short-term and long-term experience ratios for classification units.</description>
+      <pubDate>Tue, 21 Oct 2026 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Guide – Cadre d'intervention en médiation-décision en santé et sécurité du travail</title>
+      <link>https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/cadre-intervention-mediation-decision-sante</link>
+      <guid isPermaLink="true">https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/cadre-intervention-mediation-decision-sante</guid>
+      <description>Ce cadre d'intervention en médiation-décision aborde le rôle du médiateur-décideur à la CNESST ainsi que les grandes étapes liées à l'intervention en médiation-décision.</description>
+      <pubDate>Mon, 20 Oct 2026 08:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Santé et sécurité à bord des bateaux de pêche - Guide d'information</title>
       <link>https://www.cnesst.gouv.qc.ca/fr/guide-peches</link>
@@ -145,20 +159,6 @@
       <guid isPermaLink="true">https://www.cnesst.gouv.qc.ca/en/forms-and-publications/schedule-rates</guid>
       <description>This publication contains explanations about the classification of employers and occupational health and safety rates. It also includes a numerical list of the classification units and the titles of each unit.</description>
       <pubDate>Mon, 13 Oct 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Systèmes d'ancrage pour la protection contre les chutes</title>
-      <link>https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/systemes-dancrage-pour-protection-contre-chutes</link>
-      <guid isPermaLink="true">https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/systemes-dancrage-pour-protection-contre-chutes</guid>
-      <description>Le présent guide se veut un outil d’information pour les employeurs qui auront à faire concevoir, à installer ou à utiliser des systèmes d’ancrage pour la protection individuelle contre les chutes, après une analyse qui tient compte de la hiérarchie des mesures de prévention.</description>
-      <pubDate>Mon, 13 Oct 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Portrait des jeunes travailleuses et travailleurs de 24 ans ou moins - Année 2025</title>
-      <link>https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/portrait-jeunes-travailleurs-24-moins</link>
-      <guid isPermaLink="true">https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/portrait-jeunes-travailleurs-24-moins</guid>
-      <description>Ce rapport présente les statistiques de 2025 concernant la situation des jeunes travailleuses et travailleurs sur le plan de la santé et de la sécurité du travail et des normes du travail.</description>
-      <pubDate>Mon, 13 Oct 2026 15:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
