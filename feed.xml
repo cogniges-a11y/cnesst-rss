@@ -5,7 +5,14 @@
     <link>https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications</link>
     <description>Liste des formulaires et publications de la Commission des normes, de l'équité, de la santé et de la sécurité du travail (CNESST)</description>
     <language>fr</language>
-    <lastBuildDate>Fri, 30 Oct 2026 19:05:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 20:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Formulaire de commandite de la CNESST</title>
+      <link>https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/formulaire-commandite-cnesst</link>
+      <guid isPermaLink="true">https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/formulaire-commandite-cnesst</guid>
+      <description>Formulaire de demande de commandite à la CNESST. Permet aux organismes de présenter une demande de commandite (causes, événements, médias ou produits) en lien avec la mission de la CNESST. À utiliser conjointement avec la Politique d’octroi des commandites.</description>
+      <pubDate>Fri, 31 Oct 2026 12:45:00 +0000</pubDate>
+    </item>
     <item>
       <title>Procédure de sauvetage lors de travaux en hauteur</title>
       <link>https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/procedure-sauvetage-travaux-hauteur</link>
@@ -20,6 +27,5 @@
       <description>Ce guide contient de l’information sur les risques et les mesures de prévention liés à la pêche. La première partie traite de la sécurité générale à bord, tandis que la seconde présente les règles de sécurité relatives à certains modes de capture. Les risques et les moyens de prévention sont d’abord présentés sommairement sous forme de tableau, puis les mesures de prévention sont expliquées en détail. La Loi sur la santé et la sécurité du travail exige que les employeurs prennent en charge la santé et la sécurité de leurs travailleurs. Ce document, bien qu’il ne soit pas exhaustif, les y aidera.</description>
       <pubDate>Wed, 28 Oct 2026 11:45:00 +0000</pubDate>
     </item>
-    <!-- truncated for this call; full history is maintained in previous version -->
   </channel>
 </rss>
