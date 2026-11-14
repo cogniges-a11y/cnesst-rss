@@ -1,7 +1,14 @@
 {
   "source_url": "https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications",
-  "last_check": "2026-11-11T12:45:00Z",
+  "last_check": "2026-11-14T20:00:00Z",
   "seen_guids": [
+    "https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/risque-taches-hors-production-convoyeurs",
+    "https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/risque-chute-contrepoids-courroie-convoyeurs",
+    "https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/risque-deplacement-motorise-convoyeurs",
+    "https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/risque-aiguillage-convoyeurs-courroie",
+    "https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/risque-chute-charge-travailleur-convoyeurs",
+    "https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/risque-coincement-entrainement-entre-2-convoyeurs",
+    "https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/guide-sur-lethique-cnesst",
     "https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/guide-dapplication-rsseaf-fournisseurs-daides",
     "https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/affiche-campagne-sur-risques-ergonomiques-version-0",
     "https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/liste-provinciale-organismes-formation-secouriste",
