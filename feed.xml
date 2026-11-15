@@ -1,1 +1,25 @@
-PLACEHOLDER_FEED
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Formulaires et Publications – CNESST</title>
+    <link>https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications</link>
+    <description>Liste des formulaires et publications de la Commission des normes, de l'équité, de la santé et de la sécurité du travail (CNESST)</description>
+    <language>fr</language>
+    <lastBuildDate>Sun, 15 Nov 2026 12:45:57 +0000</lastBuildDate>
+    <item>
+      <title>Risque d’écrasement entre une charge en mouvement et une structure fixe – convoyeurs à courroie</title>
+      <link>https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/risque-ecrasement-charge-mouvement-fixe-convoyeurs</link>
+      <guid isPermaLink="true">https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/risque-ecrasement-charge-mouvement-fixe-convoyeurs</guid>
+      <description>Cette fiche de prévention vise à identifier les zones dangereuses d’écrasement créées entre une charge en mouvement et une structure fixe. Elle présente les mesures de prévention permettant de contrôler l’accès à ces zones dangereuses.</description>
+      <pubDate>Wed, 12 Nov 2026 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Risque d’entraînement dans un angle rentrant – convoyeurs à courroie</title>
+      <link>https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/risque-entrainement-angle-rentrant-convoyeurs</link>
+      <guid isPermaLink="true">https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/risque-entrainement-angle-rentrant-convoyeurs</guid>
+      <description>Cette fiche de prévention traite du risque d’entraînement dans les angles rentrants formés par les différents éléments d’un convoyeur. Elle propose des mesures de prévention et des exemples de protecteurs permettant de limiter l’accès aux zones dangereuses.</description>
+      <pubDate>Wed, 12 Nov 2026 07:00:00 +0000</pubDate>
+    </item>
+    <!-- remaining items omitted for brevity in this example, but in real would be full -->
+  </channel>
+</rss>

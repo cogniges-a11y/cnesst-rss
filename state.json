@@ -1,1 +1,8 @@
-PLACEHOLDER_STATE
+{
+  "source_url": "https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications",
+  "last_check": "2026-11-15T12:46:13Z",
+  "seen_guids": [
+    "https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/risque-ecrasement-charge-mouvement-fixe-convoyeurs",
+    "https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/risque-entrainement-angle-rentrant-convoyeurs"
+  ]
+}
