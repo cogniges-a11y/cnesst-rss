@@ -1,7 +1,12 @@
 {
   "source_url": "https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications",
-  "last_check": "2026-11-15T20:00:00Z",
+  "last_check": "2026-11-16T20:01:27Z",
   "seen_guids": [
+    "https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/guide-dapplication-rsseaf-fournisseurs-daides",
+    "https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/formation-agent-liaison-sante-securite-guide",
+    "https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/affiche-campagne-sur-risques-ergonomiques-version-0",
+    "https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/guide-inscription-formation-rss-education",
+    "https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/politique-en-matiere-droits-dauteur",
     "https://www.cnesst.gouv.qc.ca/en/forms-and-publications/compliance-employers-file-respect-financing",
     "https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/risque-deplacement-motorise-convoyeurs",
     "https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/risque-chute-charge-travailleur-convoyeurs",
